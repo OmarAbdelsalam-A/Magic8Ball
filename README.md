@@ -1,3 +1,3 @@
-# magic_ball
+# Magic 8 Ball
 
-A magic 9 ball app that gives random answers to your questions
+A magic 8 ball app that gives random answers to your questions
